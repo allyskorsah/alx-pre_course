@@ -1,1 +1,1 @@
-README.md for 0x01-git dir
+README.md for 0x01-git directory
